@@ -1,0 +1,9 @@
+../Core/Src/main.c:102:5:main	112	static
+../Core/Src/main.c:264:6:SystemClock_Config	88	static
+../Core/Src/main.c:312:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:345:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:411:6:mostrarJugadorRojo	16	static
+../Core/Src/main.c:448:6:mostrarJugadorAzul	16	static
+../Core/Src/main.c:485:6:secuenciaSemaforo	8	static
+../Core/Src/main.c:522:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:601:6:Error_Handler	4	static,ignoring_inline_asm
